@@ -5,7 +5,7 @@ Check the electricity bill of BUPT dormitory.
 Help you to avoid the power shutdown.
 The Cookies of https://webapp.bupt.edu.cn is needed.
 
-Don't use my token below, it is really easy to get a Telegram Bot Token
+It is really easy to get a Telegram Bot Token
 via @BotFather
 """
 
@@ -22,7 +22,7 @@ import re
 
 import requests
 
-TOKEN = '426719489:AAHMwm2TVWUK58kQS_LvnnF5lNDDc-eSUMU'
+TOKEN = 'ENTER YOUR TELEGRAM BOT ACCESS TOKEN HERE'
 
 
 class ChadianfeiService:
